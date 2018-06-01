@@ -1,5 +1,4 @@
-# pmf
-Probabilistic Matrix Factorization on MovieLens 100K
+# Probabilistic Matrix Factorization on MovieLens 100K
 
 ## Overview
 In this project, we use MovieLens 100K dataset. The dataset consists of 100,000 ratings from 943 users on 1,682 movies. In this project, RMSE (root-mean square error) is used as metric. 
